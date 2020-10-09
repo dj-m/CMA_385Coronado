@@ -2,19 +2,8 @@
 <br>
 <br>
 
-| **385 Coronado Ave <br> Long Beach, CA 90814** <br> (Belmont Heights / Alamitos Heights) |
-| :-: |
-| [![front](images/385coronado.jpg)](https://www.redfin.com/CA/Long-Beach/385-Coronado-Ave-90814/home/7602699) |
-
-- List Price: $1,078,800
-- Redfin Estimate: $1,203,613
-- Liveable space: 2,217 Sq Ft ($487/Sq Ft)
-- Lot Size: 6,751 Sq Ft
-- Duplex, 5 Beds & 3 Baths
-- Year Built: 1921
-- Time on Redfin: 74 days
-- MLS# OC20148812
-|
+| 385 Coronado Ave <br> Long Beach, CA 90814 <br> (Belmont Heights / Alamitos Heights) <br><br> List Price: $1,078,800 <br> Redfin Estimate: $1,203,613 <br> Liveable space: 2,217 Sq Ft ($487/Sq Ft) <br> Lot Size: 6,751 Sq Ft <br> Duplex, 5 Beds & 3 Baths <br> Year Built: 1921 <br> Time on Redfin: 74 days <br> MLS# OC20148812 | [![front](images/385coronado.jpg)](https://www.redfin.com/CA/Long-Beach/385-Coronado-Ave-90814/home/7602699) |
+| :- | :-: |
 
 | [![map image](images/map_overview_385coronado.png)](https://goo.gl/maps/vu33BEkXuKdbPwSi6) |
 | :-: |
