@@ -31,11 +31,11 @@
 Of the six properties that sold nearby, nearly all matched the physical dimensions of 385 Coronado Ave:
 
 - All but one were du/triplex.
-- All had 5 bedrooms except for 2 with 4 bedrooms.
-- The mean living square feet were 2,334 with the mean lot size of 6,607.
-  - The mean price per living square foot was $510
+- All but two had 4 bedrooms.
+- The mean living square footage is 2,334 with a mean lot size of 6,607.
+  - The mean price per (living) square feet is $510
   
-The duplex at 385 Coronado Ave has nearly the same living square footage and a larger lot size that the comparison homes at 6,751 square feet. At the current list price, the much lower $487/square feet of living space for 385 Coronado Ave is impressive.
+The duplex at 385 Coronado Ave has nearly the same living square footage and a larger lot size that the comparison homes at 6,751 square feet. At the current list price, 385 Coronado Ave has a 5% lower price per square foot at $487.
 
 Furthermore:
 
@@ -44,4 +44,4 @@ Furthermore:
 
 Assuming this stays stable, we can estimate that the sale price of 385 Coronado Ave will come in at approxiamtely $1,088,819, very near its current list price of $1,087,800.
 
-The current bid of $1,010,000, stands at 92.8% of 385 Coronado Ave's list price. Even if that initial offer isn't successful, any reduction in the sale price from the list price will have beat the mean sell-to-Redfin-Estimate pricepoint.
+The current bid of $1,010,000, stands at 92.8% of 385 Coronado Ave's list price. Even if that initial offer isn't successful, any reduction in the sale price from list will already be an improvement on the mean sell-to-Redfin-Estimate pricepoint.
