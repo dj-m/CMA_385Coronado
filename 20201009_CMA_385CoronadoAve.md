@@ -23,11 +23,11 @@ Details:
 ## Nearby Homes ##
 <br>
 
-|  |
+| [![front](images/331termino.jpg)](https://www.redfin.com/CA/Long-Beach/331-Termino-Ave-90814/home/7600252) |
 | :-: |
 | **331 Termino Ave <br> Long Beach, CA 90814** |
 
-[![front](images/331termino.jpg)](https://www.redfin.com/CA/Long-Beach/331-Termino-Ave-90814/home/7600252)
+Details:
 
 - Sold: June 25, 2020
 - Sold Price: $1,291,551
@@ -117,8 +117,3 @@ Long Beach, CA 90814
 - Duplex, 4 Beds, 3 Baths
 - Year Built: 1923
 - MLS# PW19280150
-
-## Offer ##
-
-[Pre Approval Letter](../Offer/20201009_Huang_PreApprovalLetter_Ally_BasedOn1010000.pdf)
-
