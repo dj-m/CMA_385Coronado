@@ -2,10 +2,8 @@
 
 
 | **385 Coronado Ave <br> Long Beach, CA 90814** <br> (Belmont Heights / Alamitos Heights) |
-| :-: |
+| :-: | -: |
 | [![front](images/385coronado.jpg)](https://www.redfin.com/CA/Long-Beach/385-Coronado-Ave-90814/home/7602699) |
-
-Details:
 
 - List Price: $1,078,800
 - Redfin Estimate: $1,203,613
@@ -15,6 +13,7 @@ Details:
 - Year Built: 1921
 - Time on Redfin: 74 days
 - MLS# OC20148812
+|
 
 | [![map image](images/map_overview_385coronado.png)](https://goo.gl/maps/vu33BEkXuKdbPwSi6) |
 | :-: |
