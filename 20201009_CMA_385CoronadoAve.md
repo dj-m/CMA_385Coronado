@@ -1,8 +1,9 @@
 # Competitive Market Analysis (CMA) #
 
-| [![front](images/385coronado.jpg)](https://www.redfin.com/CA/Long-Beach/385-Coronado-Ave-90814/home/7602699) |
-| :-: |
+
 | **385 Coronado Ave <br> Long Beach, CA 90814** <br> (Belmont Heights / Alamitos Heights) |
+| :-: |
+| [![front](images/385coronado.jpg)](https://www.redfin.com/CA/Long-Beach/385-Coronado-Ave-90814/home/7602699) |
 
 Details:
 
@@ -23,20 +24,20 @@ Details:
 ## Recently Sold Nearby ##
 <br>
 
-| [![front](images/331termino.jpg)](https://www.redfin.com/CA/Long-Beach/331-Termino-Ave-90814/home/7600252) |
-| :-: |
 | **331 Termino Ave <br> Long Beach, CA 90814** |
-
-Details:
+| :-: |
+| [![front](images/331termino.jpg)](https://www.redfin.com/CA/Long-Beach/331-Termino-Ave-90814/home/7600252) |
+| :-- |
+| Details:
 
 - Sold: June 25, 2020
-- Sold Price: $1,291,551
+- Sold Price: $1,120,000
 - Redfin Estimate: $1,291,551
 - Liveable Space: 1,998 Sq Ft ($561/Sq Ft)
 - Lot Size: 5,155 Sq Ft
 - Duplex, 5 Beds, 3 Baths
 - Year Built: 1921
-- MLS# PW20050472
+- MLS# PW20050472 |
 
 
 | [![front](images/359orizaba.jpg)](https://www.redfin.com/CA/Long-Beach/359-Orizaba-Ave-90814/home/7602625) |
