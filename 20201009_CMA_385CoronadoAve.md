@@ -14,7 +14,7 @@
 <br>
 <br>
 
-| [![front](images/331termino.jpg)](https://www.redfin.com/CA/Long-Beach/331-Termino-Ave-90814/home/7600252) | **331 Termino Ave <br> Long Beach, CA 90814** <br><br> Sold: June 25, 2020 <br> Sold Price: $1,120,000 <br> Redfin Estimate: $1,291,551 <br> Liveable Space: 1,998 Sq Ft ($561/Sq Ft) <br> Lot Size: 5,155 Sq Ft <br> Duplex, 5 Beds, 3 Baths <br> Year Built: 1921 <br> MLS# PW20050472 |
+| [![front](images/331termino.jpg)](https://www.redfin.com/CA/Long-Beach/331-Termino-Ave-90814/home/7600252) | **331 Termino Ave** <br> Long Beach, CA 90814 <br><br> Sold: June 25, 2020 <br> Sold Price: $1,120,000 <br> Redfin Estimate: $1,291,551 <br> Liveable Space: 1,998 Sq Ft ($561/Sq Ft) <br> Lot Size: 5,155 Sq Ft <br> Duplex, 5 Beds, 3 Baths <br> Year Built: 1921 <br> MLS# PW20050472 |
 | :-: | :- |
 | [![front](images/359orizaba.jpg)](https://www.redfin.com/CA/Long-Beach/359-Orizaba-Ave-90814/home/7602625) | 359 Orizaba Ave <br> Long Beach, CA 90814 <br><br> Sold: February 27, 2020 <br> Sold Price: $1,271,000 <br> Redfin Estimate: $1,309,181 <br> Livable Space: 2,126 Sq Ft ($616/Sq Ft) <br> Lot Size: 6,501 Sq Ft <br> Duplex, 5 Beds, 4 Baths <br> Year Built: 1961 <br> MLS# PW19266840 |
 | [![front](images/3425third.jpg)](https://www.redfin.com/CA/Long-Beach/3425-E-3rd-St-90814/home/7602921) | 3425 E 3rd St <br> Long Beach, CA 90814 <br><br> Sold: September 4, 2020 <br> Sold Price: $1,100,000 <br> Redfin Estimate: $1,196,398 <br> Livable Space: 2,030 Sq Ft ($542 Sq Ft) <br> Lot Size: 7,426 Sq Ft <br> Duplex, 4 Beds, 2 Baths <br> Year Built: 1918 <br> MLS# PW20115880 |
