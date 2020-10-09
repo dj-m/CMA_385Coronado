@@ -20,7 +20,7 @@ Details:
 | Click image above to go to Google Maps. |
 
 
-## Nearby Homes ##
+## Recently Sold Nearby ##
 <br>
 
 | [![front](images/331termino.jpg)](https://www.redfin.com/CA/Long-Beach/331-Termino-Ave-90814/home/7600252) |
@@ -38,12 +38,12 @@ Details:
 - Year Built: 1921
 - MLS# PW20050472
 
-Details: 
 
-359 Orizaba Ave
-Long Beach, CA 90814
+| [![front](images/359orizaba.jpg)](https://www.redfin.com/CA/Long-Beach/359-Orizaba-Ave-90814/home/7602625) |
+| :-: |
+| **359 Orizaba Ave <br> Long Beach, CA 90814** |
 
-[![front](images/359orizaba.jpg)](https://www.redfin.com/CA/Long-Beach/359-Orizaba-Ave-90814/home/7602625)
+Details:
 
 - Sold: February 27, 2020
 - Sold Price: $1,271,000
@@ -54,12 +54,11 @@ Long Beach, CA 90814
 - Year Built: 1961
 - MLS# PW19266840
 
+| [![front](images/3425third.jpg)](https://www.redfin.com/CA/Long-Beach/3425-E-3rd-St-90814/home/7602921) |
+| :-: |
+| **3425 E 3rd St <br> Long Beach, CA 90814** |
+
 Details:
-
-3425 E 3rd St
-Long Beach, CA 90814
-
-[![front](images/3425third.jpg)](https://www.redfin.com/CA/Long-Beach/3425-E-3rd-St-90814/home/7602921)
 
 - Sold: September 4, 2020
 - Sold Price: $1,100,000
@@ -70,12 +69,11 @@ Long Beach, CA 90814
 - Year Built: 1918
 - MLS# PW20115880
 
+| [![front](images/3906sixth.jpg)](https://www.redfin.com/CA/Long-Beach/3906-E-6th-St-90814/home/7600347) |
+| :-: |
+| **3906 E 6th St <br> Long Beach, CA 90814** |
+
 Details:
-
-3906 E 6th St
-Long Beach, CA 90814
-
-[![front](images/3906sixth.jpg)](https://www.redfin.com/CA/Long-Beach/3906-E-6th-St-90814/home/7600347)
 
 - Sold: July 22, 2020
 - Sold Price: $940,000
@@ -86,12 +84,11 @@ Long Beach, CA 90814
 - Year Built: 1927
 - MLS# IV20094765
 
+| [![front](images/3025corto.jpg)](https://www.redfin.com/CA/Long-Beach/3025-E-Corto-Pl-90803/home/7608676) |
+| :-: |
+| **3025 E Corto Pl <br> Long Beach, CA 90803** |
+
 Details:
-
-3025 E Corto Pl
-Long Beach, CA 90803
-
-[![front](images/3025corto.jpg)](https://www.redfin.com/CA/Long-Beach/3025-E-Corto-Pl-90803/home/7608676)
 
 - Sold: July 21, 2020
 - Sold Price: $1,365,000
@@ -102,12 +99,11 @@ Long Beach, CA 90803
 - Year Built: 1903
 - MLS# PW20108427
 
+| [![front](images/367coronado.jpg)](https://www.redfin.com/CA/Long-Beach/367-Coronado-Ave-90814/home/7602707) |
+| :-: |
+| **367 Coronado Ave <br> Long Beach, CA 90814** |
+
 Details:
-
-367 Coronado Ave
-Long Beach, CA 90814
-
-[![front](images/367coronado.jpg)](https://www.redfin.com/CA/Long-Beach/367-Coronado-Ave-90814/home/7602707)
 
 - Sold: February 20, 2020
 - Sold Price: $1,260,000
