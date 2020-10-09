@@ -1,9 +1,9 @@
 # Competitive Market Analysis (CMA) #
 
-
-
-### 385 Coronado Ave <br> Long Beach, CA 90814 ###
-(Belmont Heights / Alamitos Heights)
+| [![front](images/385coronado.jpg)](https://www.redfin.com/CA/Long-Beach/385-Coronado-Ave-90814/home/7602699) |
+| :-: |
+| **385 Coronado Ave <br> Long Beach, CA 90814** <br> 
+(Belmont Heights / Alamitos Heights) |
 
 [Redfin Listing](https://www.redfin.com/CA/Long-Beach/385-Coronado-Ave-90814/home/7602699)
 
@@ -22,8 +22,7 @@
 
 
 ## Nearby Homes ##
-
-
+<br>
 **331 Termino Ave <br> Long Beach, CA 90814**
 
 [Redfin Listing](https://www.redfin.com/CA/Long-Beach/331-Termino-Ave-90814/home/7600252)
