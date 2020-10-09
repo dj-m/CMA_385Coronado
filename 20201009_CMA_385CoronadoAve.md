@@ -1,9 +1,9 @@
 # Competitive Market Analysis (CMA) #
 
-## Property ##
 
-385 Coronado Ave
-Long Beach, Ca 90814
+## 385 Coronado Ave ##
+## Long Beach, CA 90814 ##
+<br><br> 
 (Belmont Heights / Alamitos Heights)
 
 [Redfin Listing](https://www.redfin.com/CA/Long-Beach/385-Coronado-Ave-90814/home/7602699)
