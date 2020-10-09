@@ -27,8 +27,7 @@
 | **331 Termino Ave <br> Long Beach, CA 90814** |
 | :-: |
 
-| [![front](images/331termino.jpg)](https://www.redfin.com/CA/Long-Beach/331-Termino-Ave-90814/home/7600252) |
-| Sold: June 25, 2020 <br> Sold Price: $1,120,000 <br> Redfin Estimate: $1,291,551 <br> Liveable Space: 1,998 Sq Ft ($561/Sq Ft) <br> Lot Size: 5,155 Sq Ft + Duplex, 5 Beds, 3 Baths <br> Year Built: 1921 <br> MLS# PW20050472 |
+| [![front](images/331termino.jpg)](https://www.redfin.com/CA/Long-Beach/331-Termino-Ave-90814/home/7600252) | Sold: June 25, 2020 <br> Sold Price: $1,120,000 <br> Redfin Estimate: $1,291,551 <br> Liveable Space: 1,998 Sq Ft ($561/Sq Ft) <br> Lot Size: 5,155 Sq Ft + Duplex, 5 Beds, 3 Baths <br> Year Built: 1921 <br> MLS# PW20050472 |
 | :-: | - |
 
 
